@@ -1,0 +1,4 @@
+name: Grindstone
+version: '${project.version}'
+main: dev.giorno.grindstone.GrindstoneMain
+api-version: 1.19
